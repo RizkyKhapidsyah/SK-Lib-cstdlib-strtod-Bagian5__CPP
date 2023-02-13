@@ -1,0 +1,1 @@
+# SK-Lib-cstdlib-strtod-Bagian5__CPP
